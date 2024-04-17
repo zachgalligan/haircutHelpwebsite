@@ -1,0 +1,65 @@
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+    color: white;
+}
+nav ul li {
+    list-style-type: none;
+    background-color: white;
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 20px;
+    
+}
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+nav ul li:hover {
+    background-color: blue;
+}
+main {
+    text-align: left;
+    color: black;
+    background-color: white;
+   
+
+}
+header {
+    background-color: black;
+    padding: 5px;
+    color: white
+}
+footer {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: blue;
+}
+body {
+    font-family: 	verdana;
+    margin: 0;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding:5px
+}
+body {
+    background-color: white;
+}
+ul {
+    background-color: blue;
+    padding: 18px;
+}
+.imgContainer {
+    float: left;
+}
+
+
+    
